@@ -47,7 +47,7 @@ public class Test {
 		 */
 		System.out.println(String.valueOf(LocalTime.now()).substring(0,8));
 		System.out.println("456789");
-		System.out.println("123");
+		System.out.println("1234");
 		System.out.println("123456");
 	}
 }
