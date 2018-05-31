@@ -1,6 +1,5 @@
 package com.yzyx.cn;
 
-import java.time.Clock;
 import java.time.LocalTime;
 
 public class Test {
@@ -47,6 +46,7 @@ public class Test {
 		 * System.out.println(newDate+result);
 		 */
 		System.out.println(String.valueOf(LocalTime.now()).substring(0,8));
+		System.out.println("456789");
 		System.out.println("123");
 	}
 }
